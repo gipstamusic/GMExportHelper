@@ -1,0 +1,12 @@
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# App generated files
+_dummyfiles/
+_config.txt
