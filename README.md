@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## ❤️ Support
 Made by Gipstamusic. 
-[Link in Bio](https://lnk.bio/gipstamusic)
+[All Socials](https://lnk.bio/gipstamusic)
