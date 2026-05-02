@@ -63,5 +63,5 @@ Before starting, ensure your FL Studio project file is named correctly[cite: 2].
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## ❤️ Support
-Made by Gipstamusic. 
+Made by Gipstamusic.  
 [All Socials](https://lnk.bio/gipstamusic)
